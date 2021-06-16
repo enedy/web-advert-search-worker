@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "phbMQ2k437yNvf8y9ZfiV+Hkw+J8svi0h8uszjXiHbnVnoJcg6aNjZn5l9CX7i+cTosnjLvy5HG8UR2kAOLR3A==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\New\\web-advert-search-worker\\WebAdvert.SearchWorker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\enedy\\.nuget\\packages\\amazon.lambda.core\\1.2.0\\amazon.lambda.core.1.2.0.nupkg.sha512",
+    "C:\\Users\\enedy\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.1.0\\amazon.lambda.serialization.systemtextjson.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
