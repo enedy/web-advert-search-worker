@@ -1,4 +1,4 @@
-# Serverless Application Project - SNS
+# Serverless Application Project - SNS - .Net 5
 
 This starter project consists of:
 * serverless.template - An AWS CloudFormation Serverless Application Model template file for declaring your Serverless functions and other AWS resources
