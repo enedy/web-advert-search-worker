@@ -1,7 +1,0 @@
-C:\Projects\New\web-advert-search-worker\WebAdvert.SearchWorker\bin\Release\net5.0\linux-x64\publish\WebAdvert.SearchWorker.dll
-C:\Projects\New\web-advert-search-worker\WebAdvert.SearchWorker\bin\Release\net5.0\linux-x64\publish\WebAdvert.SearchWorker.deps.json
-C:\Projects\New\web-advert-search-worker\WebAdvert.SearchWorker\bin\Release\net5.0\linux-x64\publish\WebAdvert.SearchWorker.runtimeconfig.json
-C:\Projects\New\web-advert-search-worker\WebAdvert.SearchWorker\bin\Release\net5.0\linux-x64\publish\WebAdvert.SearchWorker.pdb
-C:\Projects\New\web-advert-search-worker\WebAdvert.SearchWorker\bin\Release\net5.0\linux-x64\publish\Amazon.Lambda.APIGatewayEvents.dll
-C:\Projects\New\web-advert-search-worker\WebAdvert.SearchWorker\bin\Release\net5.0\linux-x64\publish\Amazon.Lambda.Core.dll
-C:\Projects\New\web-advert-search-worker\WebAdvert.SearchWorker\bin\Release\net5.0\linux-x64\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
